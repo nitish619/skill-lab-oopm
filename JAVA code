@@ -1,0 +1,113 @@
+//To Add Two Numbers
+
+
+public class Main
+{
+
+public static void main(String[] args)
+{	
+int x = 15;		int y
+=16;
+int sum = x + y ;
+System.out.println("x + y =" +sum);
+
+}
+
+
+}
+
+ //PRINT NUMBERS ENTERED BY USER 
+
+Import java.util.Scanner;
+
+Public class Lab1 {
+
+
+Public static void main(String[] args)
+
+
+Scanner sc = new Scanner(System.in); // Create a Scanner object
+
+
+/* System.out.println(“Enter username”);
+
+
+String userName = sc.nextLine(); // Read user input
+
+
+System.out.println(“Username is: “ + userName); // Output user input
+
+
+Int n1,n2,temp;
+
+
+System.out.println(“Enter first number”);
+
+
+N1=sc.nextInt();
+
+
+System.out.println(“Enter second number”);
+
+
+N2=sc.nextInt();
+
+
+}
+
+
+}
+
+//to swap two numbers 
+public class Main
+{ public static void main(String[] args)
+{ int n1 = 15, n2 = 16;
+
+
+System.out.println("Before swapping"); 
+System.out.println("First number = " + n1);
+System.out.println("Second number = " + n2);
+
+
+n1 = n1 - n2;
+n2 = n1 + n2;
+n1 = n2 - n1;
+
+
+System.out.println("After swapping");
+System.out.println("First number = " + n1);
+System.out.println("Second number = " + n2);
+
+
+}
+}
+
+
+//to check whether no is even or odd. 
+public class Main
+{ public static void main(String[] args)
+
+
+{
+// Declare the integer variable int num = 22;
+
+// If condition to check if the remainder is zero if (num % 2 == 0)
+{
+
+// If remainder is zero then this number is even
+
+
+System.out.println("Entered Number is Even");
+}
+
+else
+{
+
+// If remainder is not zero then this number is
+// odd
+System.out.println("Entered Number is Odd");
+}
+
+
+}
+}
